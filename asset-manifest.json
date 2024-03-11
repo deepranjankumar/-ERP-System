@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/deepranjankumar/-ERP-System.git/static/css/main.eec0ca25.css",
+    "main.js": "/https://github.com/deepranjankumar/-ERP-System.git/static/js/main.be34e567.js",
+    "static/js/453.0472fe85.chunk.js": "/https://github.com/deepranjankumar/-ERP-System.git/static/js/453.0472fe85.chunk.js",
+    "index.html": "/https://github.com/deepranjankumar/-ERP-System.git/index.html",
+    "main.eec0ca25.css.map": "/https://github.com/deepranjankumar/-ERP-System.git/static/css/main.eec0ca25.css.map",
+    "main.be34e567.js.map": "/https://github.com/deepranjankumar/-ERP-System.git/static/js/main.be34e567.js.map",
+    "453.0472fe85.chunk.js.map": "/https://github.com/deepranjankumar/-ERP-System.git/static/js/453.0472fe85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec0ca25.css",
+    "static/js/main.be34e567.js"
+  ]
+}
